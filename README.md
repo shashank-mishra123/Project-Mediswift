@@ -591,4 +591,4 @@ curl -H "Authorization: Bearer <admin_token>" http://127.0.0.1:8000/api/admin/st
 
 This project demonstrates advanced Django ORM usage, DRF implementation, and scalable API design patterns. Each app is self-contained with proper separation of concerns, making it easy to understand and extend.
 
-Happy coding! 🎉
+For any questions or issues, please reach out to the project maintainer at 
